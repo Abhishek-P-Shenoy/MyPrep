@@ -11,3 +11,5 @@ def print_items(n):
 print_items(10)
 
 # this runs n times that is the size of the given items
+
+# by dorping constant we need to tell only o(n) and not O(2n) => O(n) only

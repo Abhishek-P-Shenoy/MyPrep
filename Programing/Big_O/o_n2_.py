@@ -13,3 +13,5 @@ def print_items(n):
 print_items(2)
 
 # Here the loop runs n^2 times so its polynomial
+
+# Drop non dominants i.e if O(n^2 + n) => O(n^2)
